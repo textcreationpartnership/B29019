@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robin Hoods chase. Or, A merry progress between Robin Hood and King Henry Shewing how robin Hood led the King his chase, from London to London, and when he had spoken with the Queen, he returned to merry Sherewood. To the tune of, Robin Hood and the beggar.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29019</idno><idno type="EEBO-CITATION">99827723</idno>
+  <idno type="VID">197974</idno>
+  <idno type="EEBO-PROQUEST">2248497883</idno>
+  
+            <idno type="STC">Wing R1657G</idno>
+            <idno type="PROQUEST">99827723</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827723e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:14-15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robin Hoods chase. Or, A merry progress between Robin Hood and King Henry Shewing how robin Hood led the King his chase, from London to London, and when he had spoken with the Queen, he returned to merry Sherewood. To the tune of, Robin Hood and the beggar.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Come you gallants all, to you I do call".</note>
+                  <note>Place of publication from Wing, which estimates 1674-1679 as publication date.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Robin Hood (Legendary character) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:197974:1"/>
+            <head>Robin Hoods Chase. OR, A Merry Progress between <hi>Robin Hood</hi> and King <hi>Henry.</hi>
+            </head>
+            <argument>
+               <p>Shewing how <hi>Robin Hood</hi> led the King his Chase, from <hi>London</hi> to <hi>London,</hi> and when he had spoken with the Queen, he returned to merry <hi>Sherewood.</hi>
+               </p>
+            </argument>
+            <opener>To the Tune of, <hi>Robin Hood and the beggar.</hi>
+            </opener>
+            <div type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme you gallants all, to you I do call</l>
+                  <l>
+                     <hi>with hey down, down, an a down,</hi>
+                  </l>
+                  <l>that now is within this place,</l>
+                  <l>For a song I will sing, of <hi>Henry</hi> the King,</l>
+                  <l>how he did <hi>Robin Hood</hi> chase.</l>
+               </lg>
+               <lg>
+                  <l>Queen <hi>Katherine</hi> she a match did make,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>as pl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inly doth appear,</l>
+                  <l>For three hundred tun of good red Wine,</l>
+                  <l>and three hundred tun of beer.</l>
+               </lg>
+               <lg>
+                  <l>But yet her Archers she had to seek,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>with their Bows and Arrows so good,</l>
+                  <l>But her mind was bent, with a good intent</l>
+                  <l>to send for bold <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And when bold <hi>Robin hood</hi> he came there</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>Queen <hi>Katherine</hi> she did say:</l>
+                  <l>Thou art welcome <hi>Locksly</hi> said the Quéen</l>
+                  <l>and all thy Yeomen gay.</l>
+               </lg>
+               <lg>
+                  <l>For a match of shooting I have made,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>and thou on my part must be:</l>
+                  <lg>
+                     <head>Robin.</head>
+                     <l>If, miss the mark, be it light or dark,</l>
+                     <l>then hanged I will be,</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But when the Game it come to be play'd</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>bold <hi>Robin</hi> then drew nigh,</l>
+                  <l>with his Mantle of green, most brave to be séen</l>
+                  <l>he let his Arrows flye.</l>
+               </lg>
+               <lg>
+                  <l>And when the Game it ended was,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>bold <hi>Robin</hi> wan it with a grace,</l>
+                  <l>Then after the King was angry with him</l>
+                  <l>and vowed he would him chase.</l>
+               </lg>
+               <lg>
+                  <l>What though his pardon granted was,</l>
+                  <l>
+                     <hi>with hey down, &amp;c.</hi>
+                  </l>
+                  <l>while he with them did stay,</l>
+                  <l>Yet after the King was vex'd at him,</l>
+                  <l>when he was gone his way.</l>
+               </lg>
+               <lg>
+                  <l>Soon after the King from the Court did hye,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>in a furious angry mood,</l>
+                  <l>And did often enquire, both far and near,</l>
+                  <l>after bold <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And when the King to <hi>Nottingham</hi> came</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>bold <hi>Robin</hi> was in the wood:</l>
+                  <l>O come now said he, and let me see,</l>
+                  <l>who can find me bold <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But when that <hi>Robin Hood</hi> he did hear,</l>
+                  <l>
+                     <hi>with hey down, down an a down,</hi>
+                  </l>
+                  <l>the King had him in chase:</l>
+                  <l>Then said little <hi>John,</hi> 'tis time to be gone</l>
+                  <l>and go to some other place.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:197974:1"/>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THen away they went from merry <hi>Sherwood</hi>
+                  </l>
+                  <l>
+                     <hi>with hey down, &amp;c.</hi>
+                  </l>
+                  <l>and into <hi>Yorkshire</hi> he did hye,</l>
+                  <l>And the King did follow, with a hoop and a hollow,</l>
+                  <l>but could not come him nigh.</l>
+               </lg>
+               <lg>
+                  <l>Yet jolly <hi>Robin</hi> he passed along,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>he went to <hi>Newcastle</hi> town,</l>
+                  <l>And then stayed he, hours two or three,</l>
+                  <l>and then he for <hi>Barwick</hi> was gone.</l>
+               </lg>
+               <lg>
+                  <l>When the King did see how <hi>Robin</hi> did flee</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>he was vexed wondrous sore,</l>
+                  <l>VVith a hoop and a hollow, he vow'd him to follow,</l>
+                  <l>&amp; take him, or never give o're.</l>
+               </lg>
+               <lg>
+                  <l>Come now let's away, then cry'd Little <hi>John,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>let any man follow that dare,</l>
+                  <l>To <hi>Carlisle</hi> we'l hye, with our company,</l>
+                  <l>and so then to <hi>Lancaster.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From <hi>Lancaster</hi> then to chester they went</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>and so did King <hi>Henry,</hi>
+                  </l>
+                  <l>Then <hi>Robin</hi> away, for he durst not stay,</l>
+                  <l>for fear of some treachery.</l>
+               </lg>
+               <lg>
+                  <l>Says <hi>Robin,</hi> let us to <hi>London</hi> go,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>to see our noble Queens face,</l>
+                  <l>It may be she wants our company,</l>
+                  <l>which make the King so us chase.</l>
+               </lg>
+               <lg>
+                  <l>VVhen <hi>Robin</hi> he came Quéen <hi>Katherine</hi> before</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>he fell low upon his knee,</l>
+                  <l>If it please your Grace, <hi>I</hi> am come to this place,</l>
+                  <l>for to speak with King <hi>Henry;</hi>
+                  </l>
+                  <l>Quéen <hi>Katherine</hi> she answer'd bold <hi>Robin</hi> again,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>the King is gone to merry <hi>Sherewood,</hi>
+                  </l>
+                  <l>And when he went away, to me he did say,</l>
+                  <l>he would go seek <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then fare you well my Gracious quéen,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>for to <hi>Sherewood</hi> I will hye apace,</l>
+                  <l>For fain would I sée, what he would with me</l>
+                  <l>if I could méet his Grace.</l>
+               </lg>
+               <lg>
+                  <l>When as King <hi>Henry</hi> he came home,</l>
+                  <l>
+                     <hi>with hey,</hi> &amp;c.</l>
+                  <l>full weary and full vexed in mind,</l>
+                  <l>Then he did hear, <hi>Robin</hi> had been there,</l>
+                  <l>and blamed Dame Fortune unkind.</l>
+               </lg>
+               <lg>
+                  <l>You are welcome home queen <hi>Katherine</hi> cry'd</l>
+                  <l>
+                     <hi>with hey,</hi> &amp;c.</l>
+                  <l>
+                     <hi>Henry</hi> my Soveraign Liege,</l>
+                  <l>Bold <hi>Robin Hood,</hi> that archer good,</l>
+                  <l>your person hath been to seek.</l>
+               </lg>
+               <lg>
+                  <l>And when <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing <hi>Henry</hi> he did hear,</l>
+                  <l>
+                     <hi>with hey,</hi> &amp;c.</l>
+                  <l>that <hi>Robin</hi> had been there him to seek,</l>
+                  <l>This answer he gave, he's a cunning knave</l>
+                  <l>I have sought him this whole thrée wéek</l>
+               </lg>
+               <lg>
+                  <l>A boon, a boon, Queen <hi>Ka<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>herine</hi> cry'd</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>I beg it here on your Grace,</l>
+                  <l>To pardon his life, and seek no more strife,</l>
+                  <l>and so endeth <hi>Robin Hoods Chase.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> printed for F. Coles, T. Vere, J. Wright, and J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
